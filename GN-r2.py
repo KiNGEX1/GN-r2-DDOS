@@ -4,6 +4,7 @@ import os
 
 os.system("clear")
 os.system("figlet GN-r2 DDOS")
+print("made by KiNGEX")
 target_ip = input("Enter the target's IP: ")
 target_port = int(input("Enter the target's port: "))
 
